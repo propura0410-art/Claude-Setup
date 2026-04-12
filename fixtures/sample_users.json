@@ -1,0 +1,5 @@
+[
+  {"id":"usr_001","name":"Alice Smith","email":"alice@example.com","role":"admin","createdAt":"2024-01-15T10:30:00Z"},
+  {"id":"usr_002","name":"Bob Jones","email":"bob@example.com","role":"user","createdAt":"2024-02-20T14:15:00Z"},
+  {"id":"usr_003","name":"Carol Lee","email":"carol@example.com","role":"editor","createdAt":"2024-03-05T09:45:00Z"}
+]

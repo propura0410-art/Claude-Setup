@@ -1,0 +1,4 @@
+[
+  {"id":"prod_001","name":"Pro Plan","price":29.99,"currency":"USD","features":["Unlimited projects","Priority support","Advanced analytics"]},
+  {"id":"prod_002","name":"Enterprise Plan","price":99.99,"currency":"USD","features":["Everything in Pro","SSO","Dedicated account manager","Custom integrations"]}
+]
