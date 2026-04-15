@@ -3,6 +3,9 @@ gastro-gary/
 pantry/
 propura/
 
+# Claude Code worktrees (temporary)
+.claude/worktrees/
+
 # Dependencies
 node_modules/
 
