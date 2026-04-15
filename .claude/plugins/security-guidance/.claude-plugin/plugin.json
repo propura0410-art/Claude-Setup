@@ -1,0 +1,9 @@
+{
+  "name": "security-guidance",
+  "description": "Warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "David Dworken",
+    "email": "ddworken@anthropic.com"
+  }
+}
