@@ -1,0 +1,20 @@
+# Junction symlinks to external projects (not part of this repo)
+gastro-gary/
+pantry/
+propura/
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Env files
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
